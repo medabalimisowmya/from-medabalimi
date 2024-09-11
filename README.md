@@ -13,3 +13,5 @@ This is a **paragraph**. Since my 5th standard I love playing **Kho-Kho game**, 
 * Kolkata
 * Hyderbad
 * Bangalore
+
+In detail [My Favorite Dish](MyDish.md)
