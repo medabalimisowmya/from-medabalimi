@@ -65,4 +65,4 @@ class ConcreteClass(BaseClass):
 
 instance = ConcreteClass() 
 ```
-[You can find he code snippet here->](https://code.pieces.app/collections/python)
+[You can find he code snippet here](https://code.pieces.app/collections/python)
