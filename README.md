@@ -39,6 +39,8 @@ By having a glance into the following table you can have an idea about the resta
 
  ---
 
+Below is the python code which exlains the abstraction method. In this code there is a class named BaseClass and an abstract method is delcared.
+
  ```
  from abc import ABCMeta, abstractmethod
 
@@ -63,3 +65,4 @@ class ConcreteClass(BaseClass):
 
 instance = ConcreteClass() 
 ```
+[You can find he code snippet here->](https://code.pieces.app/collections/python)
