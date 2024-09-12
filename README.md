@@ -32,5 +32,7 @@ By having a glance into the following table you can have an idea about the resta
  ---
 
  > "The fool doth think he is wise, but the wise man knows himself to be a fool."
+
  > "A fool thinks himself to be wise, but a wise man knows himself to be a fool."
- > *Shakespeare*
+
+ > *Author:Shakespeare*
