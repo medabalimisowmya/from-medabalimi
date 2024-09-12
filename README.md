@@ -36,3 +36,30 @@ By having a glance into the following table you can have an idea about the resta
  > "A fool thinks himself to be wise, but a wise man knows himself to be a fool."
 
  > *Author:Shakespeare*
+
+ ---
+
+ ```
+ from abc import ABCMeta, abstractmethod
+
+
+class BaseClass(metaclass=ABCMeta):
+    @abstractmethod
+    def foo(self):
+        pass
+
+    @abstractmethod
+    def bar(self):
+        pass
+
+
+class ConcreteClass(BaseClass):
+    def foo(self):
+        pass
+
+    def bar(self):
+        pass
+
+
+instance = ConcreteClass() 
+```
