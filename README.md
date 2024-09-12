@@ -29,3 +29,8 @@ By having a glance into the following table you can have an idea about the resta
 | Starbucks       |For the best taste of coffee and tea                    | Nation wide    |
 | Taco Bell       |Because of its late-night menu                          | Nation wide
  
+ ---
+
+ > "The fool doth think he is wise, but the wise man knows himself to be a fool."
+ > "A fool thinks himself to be wise, but a wise man knows himself to be a fool."
+ > *Shakespeare*
