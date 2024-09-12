@@ -43,8 +43,6 @@ Below is the python code which exlains the abstraction method. In this code ther
 
  ```
  from abc import ABCMeta, abstractmethod
-
-
 class BaseClass(metaclass=ABCMeta):
     @abstractmethod
     def foo(self):
@@ -54,14 +52,12 @@ class BaseClass(metaclass=ABCMeta):
     def bar(self):
         pass
 
-
 class ConcreteClass(BaseClass):
     def foo(self):
         pass
 
     def bar(self):
         pass
-
 
 instance = ConcreteClass() 
 ```
